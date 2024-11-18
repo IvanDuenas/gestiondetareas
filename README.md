@@ -14,11 +14,14 @@ Esto proyecto es una aplicación web desarrollada con **React** que permite a lo
 - **Persistencia de datos**: Las tareas se almacenan en **localStorage**, por lo que se mantienen incluso después de reiniciar la aplicación.
 
 ## Instrucciones de Instalación y Ejecución
+Para navegar a la carpeta del proyecto:
+"cd gestiondetareas" 
 
-Para poder ejecutar esta aplicación en tu máquina local, sigue estos pasos:
+En caso de que se requieran las dependencias necesarias:
+"npm install react react-dom"
+"npm install react-router-dom"
 
-1. Clona el repositorio en tu máquina local:
+Ejecutar la aplicación:
+"npm start"
 
-   ```bash
-   git clone https://github.com/tu-usuario/gestion-tareas.git
 
