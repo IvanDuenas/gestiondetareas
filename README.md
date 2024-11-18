@@ -1,4 +1,4 @@
-Este proyecto fue creado por: Diego Iván Dueñas Padilla
+Creado por: Diego Iván Dueñas Padilla
 # Gestión de Tareas
 
 Esto proyecto es una aplicación web desarrollada con **React** que permite a los usuarios gestionar sus tareas diarias. Los usuarios pueden agregar, editar, eliminar, marcar tareas como completadas o pendientes. Además, la aplicación permite subir, descargar y eliminar archivos asociados a las tareas. Toda la información se guarda de manera persistente en **localStorage**, por lo que las tareas no se pierden al recargar la página.
